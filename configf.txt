@@ -1,0 +1,14 @@
+#Gamepad Configuration File
+
+#layout
+
+camNick: 2
+camRoll: 3
+camZoom: 1
+startRecord: 0
+stopRecord: 1
+trigger: 7
+
+#Max value of axis
+
+axisValue: -32767
