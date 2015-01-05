@@ -2,13 +2,25 @@
 
 #layout
 
-camNick: 2
-camRoll: 3
+camNick: 3
+camRoll: 2
+camGier: 0
 camZoom: 1
+extNick: 3
+extRoll: 2
+extGier: 0
+extGas: 1
 startRecord: 0
-stopRecord: 1
+stopRecord: 3
 trigger: 7
+programOne: 4
+programTwo: 5
+motorStart: 9
+motorStop: 8
+sensPlus: 7
+sensMinus: 6
+activate: 2
 
 #Max value of axis
 
-axisValue: -32767
+MaxAxisValue: 32767
